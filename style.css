@@ -1,0 +1,39 @@
+/* Center the elements on the page */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 2% 10%;
+  font-family: Arial, sans-serif;
+}
+
+/* Style the text box and button */
+input[type="text"] {
+  margin-top: 16px;
+  height: 300px;
+  width: 1000px;
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+button {
+  margin-top: 16px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+output {
+  margin-top: 16px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #f8ff1f;
+  color: white;
+  border: none;
+}
