@@ -25,7 +25,7 @@ The Expertise Analyzer is a simple web application that analyzes the expertise l
 ## Expertise Analyzer
 ```diff
 - Note: This is just dummy logic. I plan to add a machine learning model which helps in deciding expertise level.
-If you have any suggestions or workarounds please free to contact me using details below.
+If you have any suggestions or workarounds please free to contact me using details below or create an issue.
 I would like some guidance or help with the logic of the analyser. Thanks!
 ```
 The Expertise Analyzer uses a simple word count approach to determine the expertise level of the given text. The criteria used in this example are:
