@@ -797,7 +797,7 @@ aides,,,,-0.13
 aiding,,,,-0.03
 aids,,,,-0.67
 ail,,,,-0.23
-ailerons,,,,NULL
+ailerons,,,,0
 ailing,,,,-0.14
 ailment,,,,0.07
 ailments,,,,-0.07
@@ -2705,7 +2705,7 @@ bantamweight,,,,0.92
 banter,,,,0.22
 bantered,,,,0.16
 bantering,,,,0.1
-baobab,,,,NULL
+baobab,,,,0
 baptism,,,,-0.31
 baptismal,,,,0.38
 baptisms,,,,0.12
@@ -3523,7 +3523,7 @@ blaze,,,,-0.74
 blazed,,,,-0.49
 blazer,,,,-0.81
 blazing,,,,-0.5
-blazonry,,,,NULL
+blazonry,,,,0
 bleach,,,,-0.59
 bleached,,,,-0.34
 bleachers,,,,-0.3
@@ -16401,7 +16401,7 @@ haughtily,,,,0.24
 haughtiness,,,,0.93
 haughty,,,,-0.25
 haul,,,,-0.37
-haulage,,,,NULL
+haulage,,,,0
 hauled,,,,-0.22
 hauling,,,,-0.15
 hauls,,,,0.01
@@ -19954,7 +19954,7 @@ Koreans,,,,-0.24
 kosher,,,,0.04
 Krakatoa,,,,-0.02
 kraut,,,,0.18
-krautheads,,,,NULL
+krautheads,,,,0
 krauts,,,,0.37
 Kremlin,,,,0.14
 Krishna,,,,0.52
@@ -20398,7 +20398,7 @@ legume,,,,0.01
 lei,,,,-0.01
 leisure,,,,-0.32
 leisurely,,,,-0.03
-leitmotif,,,,NULL
+leitmotif,,,,0
 leitmotiv,,,,0.88
 lemma,,,,-0.14
 lemming,,,,0.28
@@ -22203,7 +22203,7 @@ mezzanine,,,,0.62
 mezzo,,,,0.8
 Miami,,,,-0.6
 Miami's,,,,-0.24
-miasmal,,,,NULL
+miasmal,,,,0
 mica,,,,0.34
 mice,,,,-0.66
 Michael,,,,-0.57
@@ -24026,10 +24026,10 @@ nudity,,,,-0.22
 nugget,,,,-0.1
 nuisance,,,,0.16
 nuisances,,,,0.14
-null,,,,-0.28
-nullified,,,,0.11
-nullify,,,,-0.06
-nullity,,,,0.67
+0,,,,-0.28
+0ified,,,,0.11
+0ify,,,,-0.06
+0ity,,,,0.67
 numb,,,,-0.45
 number,,,,-0.72
 numbered,,,,-0.3
@@ -25673,7 +25673,7 @@ peaches,,,,-0.53
 peacock,,,,-0.42
 peacocks,,,,-0.25
 peafowl,,,,0.37
-peahen,,,,NULL
+peahen,,,,0
 peak,,,,-0.67
 peaked,,,,-0.3
 peaks,,,,-0.55
@@ -26658,7 +26658,7 @@ plodding,,,,0.29
 plop,,,,-0.4
 plopped,,,,-0.09
 plosion,,,,0.4
-plosive,,,,NULL
+plosive,,,,0
 plot,,,,-0.71
 plots,,,,-0.69
 plotted,,,,-0.47
@@ -26680,7 +26680,7 @@ plug,,,,-0.63
 plugged,,,,-0.65
 plugging,,,,-0.21
 plugs,,,,-0.64
-plugugly,,,,NULL
+plugugly,,,,0
 plum,,,,-0.48
 plumage,,,,0.53
 plumb,,,,-0.29
@@ -26999,7 +26999,7 @@ Poseidon,,,,0.55
 poser,,,,-0.32
 poses,,,,-0.29
 posh,,,,-0.21
-poshest,,,,NULL
+poshest,,,,0
 posing,,,,-0.29
 posit,,,,0.17
 position,,,,-0.54
@@ -31849,7 +31849,7 @@ servility,,,,0.76
 serving,,,,-0.52
 servings,,,,-0.34
 servitude,,,,0.58
-servo,,,,NULL
+servo,,,,0
 sesame,,,,0.19
 session,,,,-0.45
 sessions,,,,-0.46
@@ -34205,7 +34205,7 @@ steppe,,,,0.46
 stepped,,,,-0.39
 steppes,,,,0.11
 stepping,,,,-0.53
-steprelationship,,,,NULL
+steprelationship,,,,0
 steps,,,,-0.63
 stepsister,,,,-0.19
 stepson,,,,0.24
